@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_684a5bbec0e751d454cfae32196a54ba936110da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_d4ee1e930e6437e7d576d53b1cdb45280cb9e345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_9e3690330bdab16e5de7582703f1906ee0820068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_b2c97044503bcee6b119f646046b295c075b65bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.faendir.rhino\rhino-android\1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b508f4fe8deaa942e6bedc317269947c9a1cecb9">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.faendir.rhino-rhino-android-1.4_5e405df02a1d5e7c79a51e0b810d6f75918de0f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_60f3037412ed4b28bdc72dc620ec9ac70d891193\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.3.1\ebca9fdfbef870042a19aec6a5b7a21d72639310\okhttp-ws-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebca9fdfbef870042a19aec6a5b7a21d72639310">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.3.1_47c59e6844d08190acc6949a9696c35df35da192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_50682964962ae14142d2231632883d15bb8c2ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_7611d06cf8e3c63d33200728344800c572680da9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_f76fed8274c83dd40fb9b6c4cd0030e72ce1287c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_bc27295cd0f1c5a30959aefa0da9084f4833e888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_11a34dce9d2e41c2bda4e337a9c283dcc5251494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\conversation\3.5.3\30711fe987b43f8e26942a232bc29bf0c545243d\conversation-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30711fe987b43f8e26942a232bc29bf0c545243d">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\conversation-3.5.3_31375b5a853b89e269d642c375460900ca05bb7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_f05f785b3f21b1a3dd59fc260124ce2a4332ee8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\visual-recognition\3.5.3\d81a6517c4a442e9865d7df86c661a473b58eff6\visual-recognition-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d81a6517c4a442e9865d7df86c661a473b58eff6">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\visual-recognition-3.5.3_96d8de6e29a1c49b2b6a023a98f979f73fc24c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_a1e559be862c244bec31c5114bf5d1869d4b67f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.faendir.rhino\rhino-android\1.4\jars\libs\dx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1b12cc361c397fab39d68082f314bc47c64955f">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\dx_a8d5ad00488ab2f966cff297a9c0b90ade474e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_78ff081515b9a7c0d5c0304349d86caa55a74868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_bc9c70ef3a5e36902f44af7df56fdc2b31f04c0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\alchemy\3.5.3\d2cfab19f79a400d0fb335227572190a1a74df92\alchemy-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d2cfab19f79a400d0fb335227572190a1a74df92">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\alchemy-3.5.3_11be17c58d531a2cf1d323c45966012b30b73629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_8ebe20be68cdce52714a7ab8739149747b528afd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_5e1e4a6e2288e28896d46e29b0e491c74a943dde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.19.0_4c42160e33d3ab666eaa08aae2aed104dbb887db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_f774fc8857700dbcd74b7a7ee5312e8cf809b814\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_2ec530bfa2c90e7087d978604109caf434080d3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_396f89d87b54384c79d8fbf62dd69f4d90a6b075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_4e6d28a29f5a1ddf43232e7e46b6576495cba6a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\natural-language-classifier\3.5.3\a41cbcda0abcf99d2cda1f9e9268475c6152f22d\natural-language-classifier-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a41cbcda0abcf99d2cda1f9e9268475c6152f22d">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\natural-language-classifier-3.5.3_f42e739a6b7bf98b43845a2608e5304ea4903fc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_84f71419bc0afd7f1d3b07ae3a6399ca822fd9ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\dialog\3.5.3\6c32ec10bf14cd2d08a0f5ffa4e6276e59d81f5\dialog-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="06c32ec10bf14cd2d08a0f5ffa4e6276e59d81f5">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\dialog-3.5.3_aabc6ac3bd5aacb073edf21201372e2666f08466\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_f8a392b6fbd31b454a7a44a245e229b9396adb6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_a1f48e602b94e77270a2e8714da3316cfbbcfbd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_f7ae32b930f0b81d3e48829c52aa9d2f0cbae7af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_8adacecd784a47692fb68741c82bd6a45d94852f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_4a812a664e35d3cdc0695bdf20491a78305fdb5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_b4cf525e48a4a19b0da8eb8cdefc8333419de828\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\retrieve-and-rank\3.5.3\f7a06ccabcabf0dcae503d345529d565f8ee8d0f\retrieve-and-rank-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7a06ccabcabf0dcae503d345529d565f8ee8d0f">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrieve-and-rank-3.5.3_aadbb994915991f1f31c8e1f9883c8155ef7dbcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translator\3.5.3\b4bf32238b4ac7c6fd789668e0e793236e7c7b6a\language-translator-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4bf32238b4ac7c6fd789668e0e793236e7c7b6a">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\language-translator-3.5.3_2cb4976cd121bbb33adcac398357b9128ae7b05d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_f330d6274461a742cc0f87c32d0554f62bbb8088\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_74273fee11e94cac0b71032a7cf5b53bc8136ac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_cadc8b57cb1e0ad160a219b4ce328d908ee456f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_acda6a64e459ff3d0ec940481c70b18b9e4f0f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_a00e5283613381a697c702bd7a5cb30b26f340a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_956b3595ffb1ea66d0aacb46bdd506e074f7e3cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_7045e2efafd5bb30885197bb240960d544b41007\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\org.mozilla\rhino\1.7.7.1\2e8f8ebc42e5df8bcef5c78dd44387176c9aa98e\rhino-1.7.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e8f8ebc42e5df8bcef5c78dd44387176c9aa98e">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\rhino-1.7.7.1_a00433a21a5409609548c01ce584adf1b86bc68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_bd524e31d08bb91da0ecf42545b1d1a7593874f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_d760be6c6e2edec0647813126172c1e5d415c106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_0789ed883db5aed5e22384988915bcbc933f8b2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_5232bb6de66aa41e08d55fc06dc21cf54d29dbed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_e406de7e528128d1a8a34d84fadd40b704de9e62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_59b60c0db8202e4fdd7344ad939682b086e770da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_8211d923903c51a12653381bb8bc3601dd43835b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_72a01dfc9ab6705f8f98c0f63fbec881c922d308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_745608089649480523e8c1d1f19691b4db3a1b70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fc1e0ea939f4373f4c1472b2ff45f45e5c3170d">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_31831158533939081013ac7ce0f2491efc1d9068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tradeoff-analytics\3.5.3\3a2e0e4ac08ea7668eadeb543ffa3232cc771c64\tradeoff-analytics-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3a2e0e4ac08ea7668eadeb543ffa3232cc771c64">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\tradeoff-analytics-3.5.3_554f7c7b02d2fb5686136a8b1d7751636df38170\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\net.lingala.zip4j\zip4j\1.3.2\4ba84e98ee017b74cb52f45962f929a221f3074c\zip4j-1.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ba84e98ee017b74cb52f45962f929a221f3074c">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\zip4j-1.3.2_30cbe8908c1568925f8571fb7bc149a343869d78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_4e8e2411927f59fe4fe4c93a687881bf12bad7c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_1b9466be71635002352b6987e790f553381d0714\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\jersey-jsr166e-2.22.2_909086ef0e3aeed85c04a8cd5c4da6067642ee64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_93b2cdd9548361787782620c3921602e0ed27a58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_dd314742a896cc5f5efb72cda9cb1a797888a93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_9cb6d31a4a5cae6c59be400f120c804dcb9b6f90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.5.3\c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2\core-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.5.3_15acfe939955567d7a742a698c0df052bbd6e8b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_7aded3b073802c695f04206f5e602fa791a1c5d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_fbd02adddeb2fcdb91bd4f5946323731674095ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\speech-to-text\3.5.3\3467f4a51a7924ac18cc393b48b7634dbcd547ca\speech-to-text-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3467f4a51a7924ac18cc393b48b7634dbcd547ca">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\speech-to-text-3.5.3_267f56b39cec0c2e94f5d46e044eb2dc62ec0018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_be25c9aab0774fd840b30252ab98e050e5d67508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\document-conversion\3.5.3\784b3b1598e9f86601ebd9354726364c03e4a93\document-conversion-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0784b3b1598e9f86601ebd9354726364c03e4a93">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\document-conversion-3.5.3_2a721174165a676df4ab94318343c8cc59dd9bef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_7f770c74cf1e64fe79bbd97f849fa7aa79c58ef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_4b22f24cf87c5cfbb64d90e0a8d826f45d14f1b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_791d6b4e9c44ab852f4b9019461f178c64a5af43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_2879533b487f011bb43eac17a05c37c9851bbb22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_3dc7e377d5a67f7f477747f30a78642f7b594fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_48f74da0499cacc3c59587e7269b249535acff31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_f06f556a6fe669f493acf329d7eecb4bd9441bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_7a0e23d04b3a532328001e9478d80b50fc1f69e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_91291c6ad43703ff23ce45f1ed4f97c0c217348d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_51ccef6e981ac6bbc22a3498433989afbe3edbf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_ebf77c35e11622abf0a1ff933a54f8cd74732cb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_8098493f0bf9c7d7f35ca02a01abd46da3af21af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_c6ba404c7810528c26b4955d82f6a27ee8af0793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_1d678471bf17ce364c7445bda502859f43de0969\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_0db37a233c7bdd76b788c08de845ce817ab4257d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85ffdbcaa8433d2c8e1908f555760cccc77896f1">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4e232f6f7f463abb1cefb81f3765396c10bd474e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\personality-insights\3.5.3\d79cf9fa0ff4290e7f562a229df3cc62c16a7f46\personality-insights-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d79cf9fa0ff4290e7f562a229df3cc62c16a7f46">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\personality-insights-3.5.3_2686f06ed1b32a42fa293ced13f346820e051960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translation\3.5.3\94eb4ef96bd72ee8e5b72575c5fa66b0695292c6\language-translation-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94eb4ef96bd72ee8e5b72575c5fa66b0695292c6">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\language-translation-3.5.3_b6c99df3b1573179361b6675e60dbd6bc3672cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\libs\stanford-android-lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7f29a0293e24a51dd368679ba5a52425fe09e86">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\2\stanford-android-lib_0bec59e7055469aac417b92f408388fc3356736a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_25958a56144b0381a0df887c66b1fa3922974a70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_14ae9c90ed6dc882c4d122aa35ee97350a8dece9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\discovery\3.5.3\d876b7df14b2c09b212a78a3c0c26976249a3a03\discovery-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d876b7df14b2c09b212a78a3c0c26976249a3a03">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\discovery-3.5.3_687caf4bbc81868930a4d12265470002d16f7c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\text-to-speech\3.5.3\54c7b06570e007136526bcc0502d63474b2e487\text-to-speech-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="054c7b06570e007136526bcc0502d63474b2e487">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\text-to-speech-3.5.3_62d1f3ae25755c973168de2ccd19b70cf361b053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.3.1\14e70f2069fb98dc60346dd24cb7b6a2e321580d\okhttp-urlconnection-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.3.1_5a4d3801a3a1ce3f779892694e4093c74235f54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Effie\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tone-analyzer\3.5.3\acb24c1b99ba260e7dc45e56fc7893f9aaa5f43a\tone-analyzer-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="acb24c1b99ba260e7dc45e56fc7893f9aaa5f43a">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\tone-analyzer-3.5.3_25d03fd5428616012cb061edb200d2e748b9a47f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_48663ceda16e63b04fc48ef3046f29ee779e1b67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_eb0be15fe8bff7f9127cfa5df3e3d0923b5965fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_7df41f769cb234c002469a231e014ee9cc92219c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_71dc669e037261cf58aded2a328195bf4caa8917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Effie\CleverPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Effie\CleverPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_08bcbfc959fd66c88f68b4b138095ed5d8a4e3ba\classes.dex" />
+    </item>
+
+</items>
